@@ -1,0 +1,34 @@
+.imagerelative {
+    position: relative;
+}
+.imgabsolute {
+    color: black;
+    position: absolute;
+    left: 13px;
+}
+.absolute {
+    position: absolute;
+    right: 308px;
+    color: black;
+}
+.absoluteimg {
+    position: absolute;
+    top: 188px;
+    left: 186px;
+    color: black;
+}
+.absoluteimage {
+    position: absolute;
+    bottom: 234px;
+    color: black;
+    right: 308px;
+}
+.imageabsolute {
+    position: absolute;
+    bottom: 234px;
+    color: black;
+    left: 13px;
+}
+img{
+    opacity: 0.5;
+}
